@@ -1,21 +1,22 @@
-# Réindustrialisation : l’Union européenne et les nations
+# Reindustrialisation: the European Union and the nations
 
-Ce dépôt met à disposition des codes de réplication pour les graphiques du chapitre dans l'Economie Européenne 2025 "Réindustrialisation : l’Union européenne et les nations".
+This repository provides replication codes for the charts of the chapter in the European Economy 2025 "Reindustrialisation: the European Union and the nations".
 
-## Graphique 1: Valeur ajoutée manufacturière (% du PIB)
 
-[Code R](graphique1.R)
+## Chart 1: Manufacturing value added (% of GDP)
 
-![Graphique 1](graphique1.png)
+[R Code](figure1.R)
 
-## Graphique 2: Indice de production industrielle (indice 100 = janvier 1992)
+![Chart 1](figure1.png)
 
-[Code R](graphique2.R)
+## Chart 2: Industrial production index (index 100 = January 1992)
 
-![Graphique 2](graphique2.png)
+[R Code](figure2.R)
 
-## Graphique 3: Valeur ajoutée manufacturière (% de la VA mondiale)
+![Chart 2](figure2.png)
 
-[Code R](graphique3.R)
+## Chart 3: Manufacturing value added (% of world VA)
 
-![Graphique 3](graphique3.png)
+[R Code](figure3.R)
+
+![Chart 3](figure3.png)
